@@ -1,4 +1,4 @@
-## RabbitMQ Example
+## NodeJS RabbitMQ Example
 
 This is a simple RabbitMQ setup with two nodeJS apps
 
